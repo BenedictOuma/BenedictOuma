@@ -63,8 +63,7 @@ When I’m not building data models or dashboards, I enjoy:
 
 ## Let’s Connect
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](#)
-✉️ [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](#)[bogutu027@gmail.com](mailto:bogutu027@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
 
