@@ -68,7 +68,6 @@ When I’m not building data models or dashboards, I enjoy:
 </a>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Always open to collaboration, mentorship, or meaningful conversations.
