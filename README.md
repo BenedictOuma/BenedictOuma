@@ -65,11 +65,9 @@ When I’m not building data models or dashboards, I enjoy:
 
 ## Let’s Connect
 
-Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)  
-
-LinkedIn: [https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-
-GitHub: [github.com/BenedictOuma](https://github.com/BenedictOuma)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bogutu027@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Always open to collaboration, mentorship, or meaningful conversations.
 
