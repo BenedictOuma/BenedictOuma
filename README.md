@@ -72,7 +72,7 @@ When I’m not building data models or dashboards, I enjoy:
 Always open to collaboration, mentorship, or meaningful conversations.
 
 ---
-
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bogutu027@gmail.com)
 _“I don’t just code for code’s sake - I code for context, community, and change.”_
 
 With code, curiosity, and purpose,
