@@ -36,7 +36,7 @@ I'm committed to building solutions that:
 `Python` • `SQL` • `Advanced Excel`
 
 **Visualization & BI:**  
-`Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
+`Power BI` • `Tableau` • `Advanced Excel` • `Matplotlib` • `Seaborn`
 
 **ML & Analytics Tools:**  
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Streamlit`
