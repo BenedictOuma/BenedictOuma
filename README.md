@@ -73,8 +73,8 @@ Always open to collaboration, mentorship, or meaningful conversations.
 
 ---
 
-_“I don’t just code for code’s sake – I code for context, community, and change.”_
+_“I don’t just code for code’s sake - I code for context, community, and change.”_
 
-Yours
+With code, curiosity, and purpose,
 
-Benedict Ouma
+**Benedict Ouma**
