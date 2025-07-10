@@ -59,7 +59,7 @@ I'm committed to building solutions that:
 When I’m not building data models or dashboards, I enjoy:
 - Writing intellectually reflective essays (mostly unpublished... for now)
 - Exploring leadership, ethics, and the intersection of society & technology  
-- 🎙Engaging in conversations around responsible innovation
+- Engaging in conversations around responsible innovation
 
 ---
 
@@ -67,7 +67,7 @@ When I’m not building data models or dashboards, I enjoy:
 
 Email: [benedictouma@gmail.com](mailto:benedictouma@gmail.com)  
 
-LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) 
+LinkedIn: [https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 GitHub: [github.com/BenedictOuma](https://github.com/BenedictOuma)
 
