@@ -55,7 +55,7 @@ I'm committed to building solutions that:
 ## Beyond Code
 
 When I’m not building data models or dashboards, I enjoy:
-- Writing intellectually reflective essays (mostly unpublished... for now)
+- Writing intellectually reflective essays (mostly unpublished, for now)
 - Exploring leadership, ethics, and the intersection of society & technology  
 - Engaging in conversations around responsible innovation
 
