@@ -65,7 +65,7 @@ When I’m not building data models or dashboards, I enjoy:
 
 ## Let’s Connect
 
-Email: [benedictouma@gmail.com](mailto:benedictouma@gmail.com)  
+Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)  
 
 LinkedIn: [https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
