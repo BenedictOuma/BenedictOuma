@@ -41,8 +41,6 @@ I'm committed to building solutions that:
 **ML & Analytics Tools:**  
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Streamlit`
 
----
-
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -66,6 +64,7 @@ When I’m not building data models or dashboards, I enjoy:
 ## Let’s Connect
 
 Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
