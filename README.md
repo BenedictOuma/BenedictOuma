@@ -48,6 +48,7 @@ I'm committed to building solutions that:
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 ---
@@ -66,6 +67,8 @@ When I’m not building data models or dashboards, I enjoy:
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](#) - [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
+
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
