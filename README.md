@@ -69,6 +69,7 @@ Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-darkgreen?style=flat-square&logo=About.me&logoColor=white)](https://benedictouma-portfolio.odoo.com/)
 
 Always open to collaboration, mentorship, or meaningful conversations.
 
