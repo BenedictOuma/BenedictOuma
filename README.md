@@ -64,12 +64,10 @@ When I’m not building data models or dashboards, I enjoy:
 
 ## Let’s Connect
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](#) - [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
+Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BenedictOuma)
-
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ouma-8baa89367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Always open to collaboration, mentorship, or meaningful conversations.
