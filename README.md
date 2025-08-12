@@ -42,6 +42,7 @@ I'm committed to building solutions that:
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
 
 **Deployment:**
+
 `Streamlit` • `FastAPI`
 
 <p>
