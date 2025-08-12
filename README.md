@@ -62,6 +62,28 @@ When I’m not building data models or dashboards, I enjoy:
 
 ---
 
+## GitHub at a Glance  
+
+![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenedictOuma&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictOuma&layout=compact&theme=radical)  
+
+---
+
+## Summary Cards  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenedictOuma&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenedictOuma&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenedictOuma&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenedictOuma&theme=radical)  
+
+---
+
+## Activity Graph  
+
+[![Benedict's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BenedictOuma&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
 ## Let’s Connect
 
 Email: [bogutu027@gmail.com](mailto:bogutu027@gmail.com)
