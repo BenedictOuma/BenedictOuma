@@ -39,7 +39,7 @@ I'm committed to building solutions that:
 `Power BI` • `Tableau` • `Advanced Excel` • `Matplotlib` • `Seaborn`
 
 **ML & Analytics Tools:**  
-`scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
+`scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow`
 
 **Deployment:**  
 `Streamlit` • `FastAPI`
