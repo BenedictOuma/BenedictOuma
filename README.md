@@ -41,8 +41,7 @@ I'm committed to building solutions that:
 **ML & Analytics Tools:**  
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
 
-**Deployment:**
-
+**Deployment:**  
 `Streamlit` • `FastAPI`
 
 <p>
@@ -66,18 +65,18 @@ When I’m not building data models or dashboards, I enjoy:
 
 ---
 
-## GitHub at a Glance  
+## Overview
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenedictOuma&theme=radical)  
 ![Benedict's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenedictOuma&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictOuma&layout=compact&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenedictOuma&theme=radical) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenedictOuma&theme=radical)
 
 ---
 
-## Summary Cards  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenedictOuma&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenedictOuma&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenedictOuma&theme=radical)  
+## Top Languages
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictOuma&layout=compact&theme=radical)
 
 ---
 
