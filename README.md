@@ -42,7 +42,7 @@ I'm committed to building solutions that:
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
 
 **Deployment**
-• `Streamlit` • `FastAPI`
+`Streamlit` • `FastAPI`
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
