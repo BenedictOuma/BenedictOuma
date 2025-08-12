@@ -41,7 +41,7 @@ I'm committed to building solutions that:
 **ML & Analytics Tools:**  
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
 
-**Deployment**
+**Deployment:**
 `Streamlit` • `FastAPI`
 
 <p>
