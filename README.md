@@ -39,7 +39,10 @@ I'm committed to building solutions that:
 `Power BI` • `Tableau` • `Advanced Excel` • `Matplotlib` • `Seaborn`
 
 **ML & Analytics Tools:**  
-`scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Streamlit`
+`scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Hadoop` • `Spark` • `tensorflow` • `Streamlit`
+
+**Deployment**
+• `Streamlit` • `FastAPI`
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
