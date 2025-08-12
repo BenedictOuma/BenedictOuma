@@ -65,7 +65,6 @@ When I’m not building data models or dashboards, I enjoy:
 ## GitHub at a Glance  
 
 ![Benedict's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenedictOuma&theme=radical) 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictOuma&layout=compact&theme=radical)  
 
 ---
@@ -73,7 +72,8 @@ When I’m not building data models or dashboards, I enjoy:
 ## Summary Cards  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenedictOuma&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenedictOuma&theme=radical)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenedictOuma&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenedictOuma&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenedictOuma&theme=radical)  
 
 ---
 
